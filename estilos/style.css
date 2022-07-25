@@ -31,3 +31,10 @@ section#telefone {
     left: 50%;
     transform: translate(-50%,-50%);
 }
+iframe#tela{
+    position: relative;
+    top: 79px;
+    left: 22px;
+    width: 267px;
+    height: 472px;
+}
